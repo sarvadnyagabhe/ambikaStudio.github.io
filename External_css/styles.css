@@ -1,0 +1,160 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+hr{
+	border-top:1px dotted ;
+}
+
+.footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	padding: 16px 0px 0px 0px;
+	height: 40px;
+}
+.card{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.card-title{
+	padding: 10px;
+}
+
+.img-fluid{
+	margin-bottom: 20px;
+}
+
+.book_img{
+	width: 100%;
+	height: 399px;
+}
+
+.photoshootForm{
+	margin: auto 350px;
+	
+	
+}
+
+.login{
+	width: 500px;
+	margin: 50px auto;
+	padding: 5px;
+	box-shadow: 0px 1px 1px 1px ; 
+
+	background-color: #f7f7f7;
+
+} 
+.login-form{
+	width: 450px;
+	margin: 0 auto;
+}
+
+.logininput{
+	width: 430px;
+	margin: 10px 10px 10px 10px;
+	padding: 5px;
+}
+.loginlabel{
+	margin: 0px 0px 0px 2px;
+}
+.login-btn{
+	padding: 5px;	
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.signupclass{
+	width: 500px;
+	margin: 10px auto;
+	background: #f7f7f7;
+	padding: 30px;
+	 box-shadow: 0px 1px 1px 1px ;	
+
+
+}
+
+.add-btn{
+padding: 5px;	
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+	
+.aboutform{
+ width: 500px;
+	margin: 0 350px;
+	background-color: pink;
+}
+
+.viewDiv{
+	margin-top: 25px;
+	margin-left: 60px;
+	margin-right: 40px;
+	
+}
+.title-price{margin-top:30px;margin-bottom:0;color:black}
+
+table{
+	width: 100%;
+	
+}
+
+td,th{
+	padding: 10px;
+}
+hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #BA68C8;
+}
+
+.profile-button {
+    background: #BA68C8;
+    box-shadow: none;
+    border: none;
+}
+
+.profile-button:hover {
+    background: #682773
+}
+
+.profile-button:focus {
+    background: #682773;
+    box-shadow: none;
+}
+
+.profile-button:active {
+    background: #682773;
+    box-shadow: none;
+}
+
+.back:hover {
+    color: #682773;
+    cursor: pointer;
+}
+
+#profile{
+    background-color: red;
+}
